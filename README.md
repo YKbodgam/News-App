@@ -63,8 +63,8 @@ Make sure you have the following installed:
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/news-explorer.git`
-2. Navigate to the project directory: `cd news-explorer`
+1. Clone the repository: `git clone https://github.com/YKbodgam/News-App.git`
+2. Navigate to the main file: `cd lib`
 3. Install dependencies: `flutter pub get`
 
 ## Usage
