@@ -46,8 +46,10 @@ News Explorer was developed as an individual project, showcasing my dedication t
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot_1.png)
-![Screenshot 2](path/to/screenshot_2.png)
+![Screenshot 1](Assets/Screenshots/Image1.jpg)
+![Screenshot 2](Assets/Screenshots/Image2.jpg)
+![Screenshot 3](Assets/Screenshots/Image3.jpg)
+![Screenshot 4](Assets/Screenshots/Image4.jpg)
 
 ## Getting Started
 
@@ -61,8 +63,8 @@ Make sure you have the following installed:
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/news-explorer.git`
-2. Navigate to the project directory: `cd news-explorer`
+1. Clone the repository: `git clone https://github.com/YKbodgam/News-App.git`
+2. Navigate to the main file: `cd lib`
 3. Install dependencies: `flutter pub get`
 
 ## Usage
